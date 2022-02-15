@@ -1,2 +1,2 @@
 # md5crypt
-single threaded version of he MD5Crypt implementation for class
+single threaded version of the MD5Crypt implementation for class
